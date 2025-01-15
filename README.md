@@ -17,7 +17,7 @@
 ## 프로젝트 구조
 DASHBOARD_PROJECT/
 ├── 📁data/<br>
-│    ├── articles_IT.csv
+│    ├── articles_IT.csv<br>
 │    ├── articles_db.csv
 │    ├── articles_g.csv
 │    ├── articles_g.csv
