@@ -115,13 +115,13 @@ pages = {
     ]
 }
 
-# 사이드바에 네비게이터 UI 생성
+# 사이드바에 네비게이터 UI 생성 
 st.sidebar.title("목차")
 for page in pages["목차"]:
     if st.sidebar.button(f"{page['icon']} {page['title']}", key=page['title']):
         change_page(page["title"])
 
-# 현재 선택된 페이지 확인
+# 현재 선택된 페이지 확인하세요
 current_page = None
 for page in pages["목차"]:
     if page["title"] == st.session_state.page:

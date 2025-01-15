@@ -11,7 +11,7 @@
   
 
 
-- 팀원 소개
+- 팀원 소개를 하겠습니다.
 > ![team member image](https://github.com/user-attachments/assets/da2b3706-3410-4a8b-8478-d6e07e929563)
 
 * * *
