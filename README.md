@@ -18,15 +18,15 @@
 DASHBOARD_PROJECT/
 ├── 📁data/<br>
 │    ├── articles_IT.csv<br>
-│    ├── articles_db.csv
-│    ├── articles_g.csv
-│    ├── articles_g.csv
-│    └── articles_.csv
-└── 📁naver_news_crawling/
-    ├── __pycache__
-    ├──📁view/
-    │   ├── __pycache__
-    │   ├── home.py
+│    ├── articles_db.csv<br>
+│    ├── articles_g.csv<br>
+│    ├── articles_g.csv<br>
+│    └── articles_.csv<br>
+└── 📁naver_news_crawling/<br>
+    ├── __pycache__<br>
+    ├──📁view/<br>
+    │   ├── __pycache__<br>
+    │   ├── home.py<br>
     │   ├── main.py
     │   ├── page_1.py
     │   ├── page_2.py
